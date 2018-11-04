@@ -1,0 +1,20 @@
+1497582860770	geckodriver	INFO	Listening on 127.0.0.1:49974
+1497582861109	mozprofile::profile	INFO	Using profile path C:\Users\qw\AppData\Local\Temp\rust_mozprofile.zPMUlw6CPhCR
+1497582861113	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1497582861158	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49982
+1497582870376	Marionette	INFO	Listening on port 49982
+1497582870497	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.40.10.150:8091/apr/js/frame/js/jquery-1.4.js, line 3514: unreachable code after return statement
+1497582936117	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 1852] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1852] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+2-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+//10.40.10.150:8091/apr/jsp/system/callCenter/jquery-easyui-1.4/jquery.easyui.min.js, line 7605: unreachable code after return statement
+JavaScript error: http://10.40.10.150:8091/apr/js/frame/js/js-frame.js, line 4338: TypeError: $.ligerDialog is undefined
+JavaScript warning: http://10.40.10.150:8091/apr/jsp/system/callCenter/scripts/core/jhtml5ctrl.js, line 1331: unreachable code after return statement
+1493738707769	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+[Child 11540] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11540] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*****
+[Child 11448] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11448] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
